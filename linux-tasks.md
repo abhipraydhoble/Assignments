@@ -14,7 +14,7 @@
 ---
 
 ## $${\color{green}\textbf{File and Directory Management}}$$
-### Task 2
+
 1. Create a directory with the name `/practice`.
 2. Create a file in the `/practice` directory named `task2.txt`.
 3. Write 10 lines of data in `task2.txt` using the `vi`/`vim` editor (topic: *India*).
