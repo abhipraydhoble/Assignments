@@ -67,7 +67,7 @@
 ---
 
 ## $${\color{cyan}\textbf{Web Hosting}}$$
-1. Download a CSS template and host it using **Apache HTTPD**.
+1. Download a CSS template and host it using **Apache2 OR HTTPD**.
 
 ---
 
