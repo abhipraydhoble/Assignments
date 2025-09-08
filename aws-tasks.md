@@ -1,5 +1,4 @@
 
-```markdown
 # AWS Tasks 
 
 ---
@@ -57,4 +56,4 @@
 2. Schedule EC2 start/stop (optional simple automation).  
 
 ---
-```
+
