@@ -26,7 +26,8 @@
 4. Generate a pre-signed URL to share files temporarily  
 5. Enable server access logging in S3  
 6. Trigger Lambda on S3 upload to send email via SNS  
-7. S3 bucket cross-region access setup  
+7. S3 bucket cross-region access setup
+8. encript s3 bucket with kms key
 
 ---
 
