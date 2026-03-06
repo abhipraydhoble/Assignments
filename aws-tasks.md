@@ -38,10 +38,9 @@
 ---
 
 ## 🌐 VPC & Networking
-1. VPC Peering (same region and cross region)  
-2. VPC 3-tier architecture  
-3. Explore VPC endpoint for S3  
-4. Subnetting and network calculation (CIDR 172.21.0.0/16 → /17 to /23)  
+1. VPC Peering (same region and cross region)   
+2. Explore VPC endpoint for S3  
+3. Subnetting and network calculation (CIDR 172.21.0.0/16 → /17 to /23)  
 
 ---
 
