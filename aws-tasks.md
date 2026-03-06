@@ -51,7 +51,6 @@
 ---
 
 ## 🪄 Lambda
-1. Trigger Lambda function on S3 upload to send email via SNS  
-2. Schedule EC2 start/stop  
+1. Schedule EC2 start/stop  
 
 ---
