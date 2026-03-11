@@ -5,7 +5,8 @@
 
 ## 🧑‍💻 IAM
 1. Enable MFA for an IAM user  
-2. Create IAM user with only CLI access  
+2. Create IAM user with only CLI access
+3. create IAM user usinng aws cli
 
 ---
 
